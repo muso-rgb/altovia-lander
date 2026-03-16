@@ -1,7 +1,7 @@
 "use client"
 
 import { Collapsible } from "@base-ui/react/collapsible"
-import { ChevronDown } from "lucide-react"
+import { Plus } from "lucide-react"
 import type { FaqContent } from "@/content/schema"
 
 interface FaqSectionProps {
@@ -12,32 +12,48 @@ export function FaqSection({ content }: FaqSectionProps) {
   return (
     <section className="border-t border-border px-6 py-24">
       <div className="mx-auto max-w-2xl">
-        <div className="mb-16 text-center">
-          <h2 className="text-3xl font-semibold tracking-tight sm:text-4xl">
+        {/* Left-aligned header */}
+        <div className="mb-20">
+          <h2 className="text-3xl font-medium tracking-tight sm:text-4xl">
             {content.heading}
           </h2>
           {content.subheading && (
-            <p className="mt-4 text-muted-foreground">{content.subheading}</p>
+            <p className="mt-4 max-w-sm text-sm leading-relaxed text-muted-foreground">
+              {content.subheading}
+            </p>
           )}
         </div>
-        <div className="divide-y divide-border">
-          {content.items.map((item) => (
-            <Collapsible.Root key={item.question}>
-              <Collapsible.Trigger className="group flex w-full items-center justify-between gap-4 py-5 text-left text-sm font-medium outline-none transition-colors hover:text-muted-foreground focus-visible:text-muted-foreground">
-                <span>{item.question}</span>
-                <ChevronDown
-                  size={16}
+
+        {/* Accordion list */}
+        <div>
+          {content.items.map((item, index) => (
+            <Collapsible.Root key={item.question} className="border-t border-border">
+              <Collapsible.Trigger className="group flex w-full items-start gap-6 py-6 text-left outline-none">
+                {/* Number */}
+                <span className="mt-px shrink-0 font-mono text-[11px] text-muted-foreground/40">
+                  {String(index + 1).padStart(2, "0")}
+                </span>
+                {/* Question */}
+                <span className="flex-1 text-sm font-medium leading-snug">
+                  {item.question}
+                </span>
+                {/* Plus → × indicator */}
+                <Plus
+                  size={14}
                   strokeWidth={1.5}
-                  className="shrink-0 transition-transform duration-200 group-data-[open]:rotate-180"
+                  className="mt-px shrink-0 text-muted-foreground transition-transform duration-200 group-data-[open]:rotate-45"
                 />
               </Collapsible.Trigger>
               <Collapsible.Panel className="overflow-hidden data-[ending-style]:animate-[collapsible-close_200ms_ease] data-[starting-style]:animate-[collapsible-open_200ms_ease]">
-                <p className="pb-5 text-sm leading-relaxed text-muted-foreground">
+                {/* Indent answer to align under question text */}
+                <p className="pb-6 pl-10 text-sm leading-relaxed text-muted-foreground">
                   {item.answer}
                 </p>
               </Collapsible.Panel>
             </Collapsible.Root>
           ))}
+          {/* Closing rule */}
+          <div className="border-t border-border" />
         </div>
       </div>
     </section>
