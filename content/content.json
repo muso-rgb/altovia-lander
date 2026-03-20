@@ -1,1 +1,103 @@
-ewogICJzZWN0aW9ucyI6IFsKICAgIHsKICAgICAgInR5cGUiOiAiaGVybyIsCiAgICAgICJiYWRnZSI6ICJQZXJmb3JtYW5jZS1Ecml2ZW4gQ3JlYXRpdmUgQWdlbmN5IiwKICAgICAgImhlYWRpbmciOiAiQWRzIFRoYXQgQ29udmVydC5cbkd1YXJhbnRlZWQgUmVzdWx0cy4iLAogICAgICAic3ViaGVhZGluZyI6ICJBZCBNaXNmaXRzIGJ1aWxkcyBoaWdoLXBlcmZvcm1pbmcgYWRzIGZvciBEVEMgYnJhbmRzIHRoYXQgZGVtYW5kIFJPSS4gRGF0YS1kcml2ZW4gY3JlYXRpdmUgdGhhdCBzdG9wcyBzY3JvbGxzIGFuZCBkcml2ZXMgc2FsZXPigJRub3QganVzdCBpbXByZXNzaW9ucy4iLAogICAgICAiYnV0dG9ucyI6IFsKICAgICAgICB7ICJsYWJlbCI6ICJWaWV3IE91ciBSZXN1bHRzIiwgImhyZWYiOiAiI2JlbmVmaXRzIiwgInZhcmlhbnQiOiAiZGVmYXVsdCIsICJzaXplIjogImxnIiB9LAogICAgICAgIHsgImxhYmVsIjogIlNjaGVkdWxlIGEgQ2FsbCIsICJocmVmIjogIiNjdGEiLCAidmFyaWFudCI6ICJvdXRsaW5lIiwgInNpemUiOiAibGciIH0KICAgICAgXQogICAgfSwKICAgIHsKICAgICAgInR5cGUiOiAiYmVuZWZpdHMiLAogICAgICAiaGVhZGluZyI6ICJXaGF0IFNldHMgVXMgQXBhcnQiLAogICAgICAic3ViaGVhZGluZyI6ICJDcmVhdGl2ZSBleGNlbGxlbmNlIHBvd2VyZWQgYnkgY29udmVyc2lvbiBzY2llbmNlLiBFdmVyeSBkZWNpc2lvbiBiYWNrZWQgYnkgZGF0YS4iLAogICAgICAiaXRlbXMiOiBbCiAgICAgICAgewogICAgICAgICAgImljb24iOiAiWmFwIiwKICAgICAgICAgICJ0aXRsZSI6ICJMaWdodG5pbmctRmFzdCBUdXJuYXJvdW5kIiwKICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJGcm9tIGFwcHJvdmVkIGJyaWVmIHRvIGxpdmUgYWRzIGluIGp1c3QgNSBidXNpbmVzcyBkYXlzLiBPdXIgc3RyZWFtbGluZWQgcHJvZHVjdGlvbiBzeXN0ZW0ga2VlcHMgeW91ciBjYW1wYWlnbnMgbW92aW5nIGFuZCB5b3VyIGJ1ZGdldCB3b3JraW5nLiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJpY29uIjogIlRhcmdldCIsCiAgICAgICAgICAidGl0bGUiOiAiQ29udmVyc2lvbi1PYnNlc3NlZCBDcmVhdGl2ZSIsCiAgICAgICAgICAiZGVzY3JpcHRpb24iOiAiV2UgZW5naW5lZXIgZXZlcnkgZGV0YWls4oCUaG9vaywgaGVhZGxpbmUsIHZpc3VhbOKAlHRvIG1heGltaXplIGNsaWNrcyBhbmQgY29udmVyc2lvbnMuIENvbnRpbnVvdXMgdGVzdGluZyBhbmQgb3B0aW1pemF0aW9uIGJ1aWx0IGludG8gb3VyIHByb2Nlc3MuIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgImljb24iOiAiQmFyQ2hhcnQyIiwKICAgICAgICAgICJ0aXRsZSI6ICJUcmFuc3BhcmVudCBQZXJmb3JtYW5jZSBNZXRyaWNzIiwKICAgICAgICAgICJkZXNjcmlwdGlvbiI6ICJGdWxsIHZpc2liaWxpdHkgaW50byB3aGF0J3Mgd29ya2luZyBhbmQgd2h5LiBXZSBjb25uZWN0IGV2ZXJ5IGNyZWF0aXZlIGRlY2lzaW9uIHRvIFJPQVMsIENUUiwgYW5kIENBQyBzbyB5b3Uga25vdyBleGFjdGx5IHdoYXQgdG8gc2NhbGUuIgogICAgICAgIH0KICAgICAgXQogICAgfSwKICAgIHsKICAgICAgInR5cGUiOiAidGVzdGltb25pYWxzIiwKICAgICAgImhlYWRpbmciOiAiQnJhbmRzIFRoYXQgVHJ1c3QgQWQgTWlzZml0cyIsCiAgICAgICJzdWJoZWFkaW5nIjogIlJlYWwgcmVzdWx0cyBmcm9tIHJlYWwgY29tcGFuaWVzIHdobvCApXJlIHN3aXRjaGVkIGZyb20gdmFuaXR5IG1ldHJpY3MgdG8gcGVyZm9ybWFuY2UuIiwKICAgICAgIml0ZW1zIjogWwogICAgICAgIHsKICAgICAgICAgICJxdW90ZSI6ICJBZCBNaXNmaXRzIHRvb2sgb3VyIFJPQVMgZnJvbSAxLjh4IHRvIDQuMnggaW4gNjAgZGF5cy4gVGhlaXIgdGVhbSB1bmRlcnN0b29kIG91ciBjdXN0b21lciBiZXR0ZXIgdGhhbiB3ZSBkaWQuIiwKICAgICAgICAgICJhdXRob3IiOiAiUHJpeWEgTWVodGEiLAogICAgICAgICAgInJvbGUiOiAiSGVhZCBvZiBHcm93dGgiLAogICAgICAgICAgImNvbXBhbnkiOiAiTHVtaW5vIFNraW5jYXJlIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInF1b3RlIjogIkZpbmFsbHksIGEgY3JlYXRpdmUgcGFydG5lciB0aGF0IHNwZWFrcyB0aGUgbGFuZ3VhZ2Ugb2YgbWVkaWEgYnV5ZXJzLiBUaGV5IG1ha2UgYWRzIHRoYXQgc2NhbGUsIG5vdCBqdXN0IGxvb2sgcHJldHR5LiIsCiAgICAgICAgICAiYXV0aG9yIjogIkpvcmRhbiBUc2UiLAogICAgICAgICAgInJvbGUiOiAiRm91bmRlciAmIENFTyIsCiAgICAgICAgICAiY29tcGFueSI6ICJTZGFJA2sgTnV0cml0aW9uIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInF1b3RlIjogIlRoZWlyIFVHQyBob29rcyBjdXQgb3VyIENQTXMgYnkgMzglLiBUaGUgcHJvY2VzcyB3YXMgc2VhbWxlc3MgYW5kIHRoZSB0ZWFtIGNvbW11bmljYXRlcyBsaWtlIHByb3MuIiwKICAgICAgICAgICJhdXRob3IiOiAiTWFyY3VzIFdlYmIiLAogICAgICAgICAgInJvbGUiOiAiVlAgTWFya2V0aW5nIiwKICAgICAgICAgICJjb21wYW55IjogIkZpZWxkd29jayBHb29kcyIKICAgICAgICB9CiAgICAgIF0KICAgIH0sCiAgICB7CiAgICAgICJ0eXBlIjogImN0YSIsCiAgICAgICJoZWFkaW5nIjogIkxldCdzIEJvb3N0IFlvdXIgQWQgUGVyZm9ybWFuY2UiLAogICAgICAiZGVzY3JpcHRpb24iOiAiR2V0IGEgZnJlZSAzMC1taW51dGUgYXVkaXQgb2YgeW91ciBjdXJyZW50IGNhbXBhaWducywgV2UnbGwgaWRlbnRpZnkgY29udmVyc2lvbiBsZWFrcywgc2hvdyB5b3Ugd2hhdCdzIGxlYXZpbmcgbW9uZXkgb24gdGhlIHRhYmxlLCBhbmQgcmV2ZWFsIGV4YWN0bHkgaG93IHdlJ2Qgb3B0aW1pemUgeW91ciBhZHMgZm9yIG1heGltdW0gUk9BUy4iLAogICAgICAiYnV0dG9uIjogeyAibGFiZWwiOiAiQ2xhaW0gWW91ciBGcmVlIEF1ZGl0IiwgImhyZWYiOiAiIywgInZhcmlhbnQiOiAic2Vjb25kYXJ5IiwgInNpemUiOiAibGciIH0KICB9LAogIHsKICAgICAgInR5cGUiOiAiZmFxIiwKICAgICAgImhlYWRpbmciOiAiQ29tbW9uIFF1ZXN0aW9ucyIsCiAgICAgICJzdWJoZWFkaW5nIjogIkV2ZXJ5dGhpbmcgeW91IG5lZWQgdG8ga25vdyBhYm91dCB3b3JraW5nIHdpdGggQWQgTWlzZml0cy4iLAogICAgICAiaXRlbXMiOiBbCiAgICAgICAgewogICAgICAgICAgInF1ZXN0aW9uIjogIldoYXQgYWQgZm9ybWF0cyBkbyB5b3Ugc3BlY2lhbGl6ZSBpbj8iLAogICAgICAgICAgImFuc3dlciI6ICJXZSBDZRVB0ZSBoaWdoLWNvbnZlcnRpbmcgcGFpZCBzb2NpYWwgY3JlYXRpdmUgZm9yIE1ldGEsIFRpa1Rvaywgam5kIFlvdVR1YmXigJRpbmNsdWRpbmcgc3RhdGljIGltYWdlcywgc2hvcnQtZm9ybSB2aWRlbyAoVUdDIGFuZCBwcm9kdWNlZCksIGNhcm91c2VsIGFkcywgYW5kIG1vdGlvbiBncmFwaGljcy4gV2Ugb3B0aW1pemUgZWFjaCBmb3JtYXQgZm9yIHlvdXIgc3BlY2lmaWMgYXVkaWVuY2UgYW5kIHBsYXRmb3JtLiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJxdWVzdGlvbiI6ICJIb3cgZmFzdCBjYW4geW91IGRlbGl2ZXIgbmV3IGNyZWF0aXZlPyIsCiAgICAgICAgICAiYW5zd2VyIjogIk91ciBzdGFuZGFyZCB0dXJuYXJvdW5kIGlzIDUgYnVzaW5lc3MgZGF5cyBmcm9tIGFuIGFwcHJvdmVkIGJyaWVmLiBGb3IgdXJnZW50IHByb2plY3RzLCB3ZSBvZmZlciA0OC1ob3VyIGV4cHJlc3Mgc3ByaW50cyBhdCBhIHByZW1pdW0uIE91ciBzeXN0ZW0gaXMgYnVpbHQgZm9yIHNwZWVkIHdpdGhvdXQgY29tcHJvbWlzaW5nIHF1YWxpdHnigJRtb3N0IGNsaWVudHMgc3RheSAxMisgbW9udGhzIGJlY2F1c2UgcmVzdWx0cyBrZWVwIGltcHJvdmluZy4iCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAicXVlc3Rpb24iOiAiRG8geW91IGxvY2sgY2xpZW50cyBpbnRvIGxvbmctdGVybSBjb250cmFjdHM/IiwKICAgICAgICAgICJhbnN3ZXIiOiAiTm8uIFdlIG9mZmVyIGZsZXhpYmxlIG1vbnRoLXRvLW1vbnRoIHJldGFpbmVycyBhbmQgcHJvamVjdC1iYXNlZCBlbmdhZ2VtZW50cy4gV2UnZCByYXRoZXIgZWFybiB5b3VyIGJ1c2luZXNzIGV2ZXJ5IG1vbnRoIHRoYW4gdGllIHlvdSBkb3duLiBUaGUgcmVzdWx0cyBzcGVhayBmb3IgdGhlbXNlbHZlc+KAlG1vc3QgY2xpZW50cyBzdGljayB3aXRoIHVzIGJlY2F1c2UgdGhleSBrZWVwIHNlZWluZyBST0kgaW1wcm92ZW1lbnRzLiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJxdWVzdGlvbiI6ICJXaGF0IGRvIHlvdSBuZWVkIHRvIGdldCBzdGFydGVkPyIsCiAgICAgICAgICAiYW5zd2VyIjogIkEgY3JlYXRpdmUgYnJpZWYsIGFjY2VzcyB0byB5b3VyIGFkIGFjY291bnQgYW5hbHl0aWNzLCBhbmQgYW55IGV4aXN0aW5nIHRvcC1wZXJmb3JtaW5nIGFkcy4gVGhlIG1vcmUgY29udGV4dCB5b3UgcHJvdmlkZSBhYm91dCB5b3VyIGN1c3RvbWVyIGFuZCB3aGF0J3MgYWxyZWFkeSB3b3JraW5nLCB0aGUgZmFzdGVyIHdlIGNhbiBvcHRpbWl6ZSBhbmQgc2NhbGUuIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInF1ZXN0aW9uIjogIkhvdyBpcyBBZCBNaXNmaXRzIGRpZmVyZW50IGZyb20gb3RoZXIgY3JlYXRpdmUgYWdlbmNpZXM/IiwKICAgICAgICAgICJhbnN3ZXIiOiAiTW9zdCBhZ2VuY2llcyBjaGFzZSBhd2FyZHMgYW5kIGFlc3RoZXRpY3MuIFdlIGNoYXNlIGNvbnZlcnNpb25zIGFuZCBST0FTLiBPdXIgdGVhbSBpcyBtYWRlIHVwIG9mIHBlcmZvcm1hbmNlIG1hcmtldGVycyB3aG8gbGVhcm5lZCB0byBjcmVhdGXigJRub3QgZGVzaWduZXJzIHdobyBsZWFybmVkIHRvIHJ1biBhZHMuIFRoYXQgZGlmZmVyZW5jZSBzaG93cyB1cCBpbiB0aGUgcmVzdWx0cy4iCiAgICAgICAgfQogICAgICBdCiAgICB9CiAgXQp9
+{
+  "sections": [
+    {
+      "type": "hero",
+      "badge": "Performance-Driven Creative Partner",
+      "heading": "Ads That Convert, Not Just\nImpress.",
+      "subheading": "We craft data-backed creative that drives real revenue for ambitious DTC brands. Stop burning money on beautiful ads that don't sell.",
+      "buttons": [
+        { "label": "See What We've Built", "href": "#benefits", "variant": "default", "size": "lg" },
+        { "label": "Schedule Your Free Audit", "href": "#cta", "variant": "outline", "size": "lg" }
+      ]
+    },
+    {
+      "type": "benefits",
+      "heading": "Why Top Brands Trust Ad Misfits",
+      "subheading": "Every pixel, every word, every frame is engineered for conversions.",
+      "items": [
+        {
+          "icon": "Zap",
+          "title": "5-Day Creative Delivery",
+          "description": "From brief to live in just 5 business days. We've systemized production so you're never waiting on creative while your competitors move."
+        },
+        {
+          "icon": "Target",
+          "title": "Conversion-Obsessed Creative",
+          "description": "We reverse-engineer winning ads from data. Every element is tested, validated, and designed to stop scrolls and drive clicks at scale."
+        },
+        {
+          "icon": "BarChart2",
+          "title": "ROI-Connected Reporting",
+          "description": "See exactly how creative drives revenue. We connect every design choice to ROAS, CAC, and LTV so you know what to scale and why."
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "heading": "Real Results from Real Brands",
+      "subheading": "Companies that ditched beautiful ads for profitable ones.",
+      "items": [
+        {
+          "quote": "1.8x to 4.2x ROAS in 60 days. Ad Misfits got our customer in a way our internal team never did. They speak our language.",
+          "author": "Priya Mehta",
+          "role": "VP Growth",
+          "company": "Lumino Skincare"
+        },
+        {
+          "quote": "Finally a creative partner who lives and breathes performance marketing. Not pretty designers who dabble in ads — serious conversion experts.",
+          "author": "Jordan Tse",
+          "role": "Founder & CEO",
+          "company": "Stackd Nutrition"
+        },
+        {
+          "quote": "UGC hooks that crushed our CPMs by 38%. Fast, painless process. Treated us like a real partner, not just another client.",
+          "author": "Marcus Webb",
+          "role": "Director of Marketing",
+          "company": "Fieldwork Goods"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Ready to Stop Burning Budget on Mediocre Ads?",
+      "description": "Book a free 30-minute audit with one of our strategists. We'll review your current creative, identify where you're leaking conversions, and show you exactly what we'd do differently.",
+      "button": {
+        "label": "Claim Your Free Audit",
+        "href": "#",
+        "variant": "secondary",
+        "size": "lg"
+      }
+    },
+    {
+      "type": "faq",
+      "heading": "Questions Before We Start?",
+      "subheading": "Everything you need to know about working with Ad Misfits.",
+      "items": [
+        {
+          "question": "What creative formats do you specialize in?",
+          "answer": "Meta (Facebook & Instagram), TikTok, YouTube, Pinterest, LinkedIn — all formats. Static images, short-form video (UGC & produced), carousels, collection ads, reels. We match the creative to where your customers actually convert, not just where it looks good."
+        },
+        {
+          "question": "How quickly can you deliver new creative?",
+          "answer": "Standard turnaround: 5 business days. Rush projects: 48 hours (premium fee). We've built workflows that move fast. Speed never means sacrificing quality or performance—we've proven we can do both."
+        },
+        {
+          "question": "Do I need to commit to a long contract?",
+          "answer": "Nope. Month-to-month flexibility. We win your business every month with results, not contracts. Most clients stick with us 12+ months because their ROAS keeps climbing. We'd rather earn it than lock it in."
+        },
+        {
+          "question": "What do you need to get started?",
+          "answer": "A creative brief (or a conversation), access to your ad analytics, and your top-performing existing ads. The more we know about your customer, your offer, and what's worked before, the faster we dial in."
+        },
+        {
+          "question": "How are you different from other creative agencies?",
+          "answer": "Most creative agencies hire designers who later learned to run ads. We hire performance marketers who learned to create. Our DNA is conversion optimization. Every decision connects to metrics. That's not bragging—it's just what shows up in your ROAS."
+        },
+        {
+          "question": "What if the first round of creative doesn't hit?",
+          "answer": "We iterate. A/B testing is how we work. We learn from every test, adjust, and push again. You're not paying for perfect creative upfront—you're partnering with a team obsessed with continuous improvement."
+        }
+      ]
+    }
+  ]
+}
