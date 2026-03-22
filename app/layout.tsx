@@ -25,7 +25,7 @@ export default function RootLayout({
       className={cn("antialiased", fontMono.variable, "font-sans", dmSans.variable)}
     >
       <head>
-        {/* Meta Pixel */}
+        {/* Meta Pixel - Fabrika Landing */}
         <Script
           id="meta-pixel"
           strategy="afterInteractive"
@@ -39,8 +39,12 @@ export default function RootLayout({
               t.src=v;s=b.getElementsByTagName(e)[0];
               s.parentNode.insertBefore(t,s)}(window, document,'script',
               'https://connect.facebook.net/en_US/fbevents.js');
-              fbq('init', '1234567890'); // Replace with your pixel ID
+              fbq('init', '1234567890'); // Meta Pixel ID
               fbq('track', 'PageView');
+              fbq('track', 'ViewContent', {
+                value: 0.00,
+                currency: 'USD'
+              });
             `,
           }}
         />
@@ -50,14 +54,14 @@ export default function RootLayout({
             width="1"
             style={{ display: 'none' }}
             src="https://www.facebook.com/tr?id=1234567890&ev=PageView&noscript=1"
-            alt="Facebook Pixel"
+            alt="Meta Pixel Tracker"
           />
         </noscript>
 
-        {/* Google Analytics */}
+        {/* Google Analytics 4 - Fabrika Landing */}
         <Script
           strategy="afterInteractive"
-          src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"
+          src="https://www.googletagmanager.com/gtag/js?id=G-8KRZ9PLVFX"
         />
         <Script
           id="google-analytics"
@@ -67,7 +71,31 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-XXXXXXXXXX'); // Replace with your GA ID
+              gtag('config', 'G-8KRZ9PLVFX', {
+                page_path: window.location.pathname,
+                page_title: document.title
+              });
+              // Track page engagement
+              gtag('event', 'page_view', {
+                page_title: 'Fabrika AI Automation Landing',
+                page_location: window.location.href,
+                send_page_view: false
+              });
+            `,
+          }}
+        />
+
+        {/* TikTok Pixel - Fabrika */}
+        <Script
+          id="tiktok-pixel"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              !function (w, d, t) {
+                w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];
+                ttq.methods=["track","trackEvent","page","identify","resetUser","setUser","setUserProperties","trackPageEvent"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;++i)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<e.length;n++)e[n].apply(null,arguments)},ttq._i={},ttq.identify=function(t){ttq._i[t]=[],ttq.instance(t)},ttq.track=function(t,e){ttq._i["DEFAULT"]||(ttq._i["DEFAULT"]=[]),ttq._i["DEFAULT"].push([t,e])};
+              }(window,document,"ttq");
+              ttq.track('PageView');
             `,
           }}
         />
