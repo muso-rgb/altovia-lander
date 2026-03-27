@@ -1,1 +1,109 @@
-{"sections":[{"type":"hero","badge":"AI Automation for Business","heading":"AI That Works For You,\nNot Against You.","subheading":"Deploy safe, secure AI agents in minutes. No engineering team needed. Works the way your business actually works — whether you're an accounting firm, law practice, or any other professional service.","buttons":[{"label":"Start your free trial","href":"#cta","variant":"default","size":"lg"},{"label":"Learn More","href":"#benefits","variant":"outline","size":"lg"}]},{"type":"benefits","heading":"Why Choose OpenClaw Agents","subheading":"Built for businesses that demand reliability.","items":[{"icon":"Shield","title":"Instant & Secure Deployment","description":"Launch AI agents in sandboxed containers in seconds. Enterprise-grade security without the complexity. Your data stays safe. Your workflows stay protected."},{"icon":"Zap","title":"Real Business Results","description":"Automate the work that eats your time. Save hours every week. Cut costs immediately. Your team focuses on what matters — building client relationships, not doing busywork."},{"icon":"Brain","title":"No AI Expertise Needed","description":"Simple setup for traditional businesses. You don't need to understand AI. Just describe what you want automated. We handle the rest."}]},{"type":"testimonials","heading":"Trusted by Professional Firms","subheading":"Real results from accountants, lawyers, and consultants.","items":[{"quote":"We automated document review. What used to take our team 3 days now happens overnight. Freed up two people for billable work.","author":"Sarah Chen","role":"Managing Partner","company":"Chen & Associates, CPAs"},{"quote":"Client intake is now automated. We get cleaner data, faster responses, and our team isn't buried in paperwork anymore.","author":"Michael Torres","role":"Practice Manager","company":"Torres Legal Group"},{"quote":"The security and reliability matter more than anything else. We know our client data is protected. That's non-negotiable in our business.","author":"Jennifer Wu","role":"Founder","company":"Wu & Partners Consulting"}]},{"type":"cta","heading":"Ready to Automate Your Firm?","description":"$99/month. No credit card required to get started. Cancel anytime. Deploy your first agent in minutes.","button":{"label":"Start your free trial","href":"#","variant":"secondary","size":"lg"}},{"type":"faq","heading":"Frequently Asked Questions","subheading":"Everything you need to know.","items":[{"question":"How secure is this? Can I trust it with client data?","answer":"Yes. OpenClaw agents run in isolated sandboxed containers with enterprise-grade security. Your data never leaves your environment. We handle security so you don't have to worry."},{"question":"What can I automate?","answer":"Document review, client intake, scheduling, data entry, email triage, report generation — anything repetitive that your team does today. If you can describe the task, we can automate it."},{"question":"How quickly can I set this up?","answer":"Minutes. No coding required. We handle deployment, security, and reliability. You just describe what you want done and we make it happen."},{"question":"What if something goes wrong?","answer":"OpenClaw agents are built for reliability. They run in protected containers and only do exactly what you tell them to do. No surprises, no hallucinations, no cutting corners."},{"question":"Do I need to hire engineers?","answer":"No. This is designed for non-technical teams. Lawyers, accountants, consultants — if you run a professional service, you can use OpenClaw without engineering expertise."}]}]}
+{
+  "sections": [
+    {
+      "type": "hero",
+      "badge": "Built for Medical Professionals",
+      "heading": "Reach More Middle-Aged Patients\nWho Trust Apple.",
+      "subheading": "Middle-aged adults use Apple devices for everything — including finding their next doctor. This landing page is designed to help GPs, specialists, and clinics attract and convert those patients before a competitor does.",
+      "buttons": [
+        {
+          "label": "Claim Your Free Trial",
+          "href": "#cta",
+          "variant": "default",
+          "size": "lg"
+        },
+        {
+          "label": "See How It Works",
+          "href": "#benefits",
+          "variant": "outline",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "type": "benefits",
+      "heading": "Why Doctors Choose This Platform",
+      "subheading": "Simple tools that help you attract patients, save time, and grow your practice — no tech team needed.",
+      "items": [
+        {
+          "icon": "UserCheck",
+          "title": "Attract the Right Patients",
+          "description": "Middle-aged adults (40-65) are the fastest-growing patient segment on Apple devices. Our platform puts your practice in front of them when they're actively looking for a doctor — not just browsing."
+        },
+        {
+          "icon": "Clock",
+          "title": "Save Hours Every Week",
+          "description": "Automated appointment reminders, follow-ups, and intake forms — all handled for you. Your front desk focuses on patients, not paperwork. Most practices save 8-12 hours per week."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "HIPAA-Safe, Always",
+          "description": "Every piece of patient data is encrypted and handled with full HIPAA compliance built in. You get the marketing power without the compliance headache."
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "heading": "Trusted by Doctors Across the Country",
+      "subheading": "Real results from GPs, specialists, and clinics already using the platform.",
+      "items": [
+        {
+          "quote": "Within 60 days we had 34 new patient bookings — mostly 45-60 year olds. They all came from Apple Health and Google search. The setup took one afternoon.",
+          "author": "Dr. Rachel Kim",
+          "role": "Family Medicine Physician",
+          "company": "Kim Family Practice, Atlanta"
+        },
+        {
+          "quote": "I was skeptical about digital marketing but this was straightforward. My receptionist set it up while I was in clinic. We have been booked solid since.",
+          "author": "Dr. James Oduya",
+          "role": "Internal Medicine",
+          "company": "Oduya Medical Group, Chicago"
+        },
+        {
+          "quote": "Our no-show rate dropped by 40% after turning on the automated reminders. That alone paid for the subscription many times over.",
+          "author": "Dr. Maria Santos",
+          "role": "General Practitioner",
+          "company": "Santos Clinic, Miami"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Start Seeing More Patients This Month",
+      "description": "$99/month. No contract. No setup fees. Takes under 30 minutes to go live. Cancel anytime.",
+      "button": {
+        "label": "Claim Your Free Trial",
+        "href": "#",
+        "variant": "secondary",
+        "size": "lg"
+      }
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently Asked Questions",
+      "subheading": "Everything you need to know before getting started.",
+      "items": [
+        {
+          "question": "Do I need to be tech-savvy to use this?",
+          "answer": "Not at all. If you can send an email, you can use this platform. Most doctors are fully set up within 30 minutes. We also offer onboarding support if you get stuck."
+        },
+        {
+          "question": "Why focus on middle-aged patients specifically?",
+          "answer": "Adults aged 40-65 represent the highest-value patient segment — they have established insurance, visit doctors more regularly, and are very loyal once they find a practice they trust. They are also the heaviest users of Apple Health and iPhone health features."
+        },
+        {
+          "question": "Is this HIPAA compliant?",
+          "answer": "Yes. Full HIPAA compliance is built into everything — patient data, communications, intake forms. You will receive a Business Associate Agreement (BAA) when you sign up. No additional compliance work required on your end."
+        },
+        {
+          "question": "How quickly will I see new patients?",
+          "answer": "Most practices see their first new bookings within 2-4 weeks. Some see results in the first week. It depends on your location and specialty, but we will give you a realistic forecast before you commit."
+        },
+        {
+          "question": "What does the $99/month include?",
+          "answer": "Everything: patient acquisition tools, automated appointment reminders, intake forms, follow-up messaging, HIPAA-compliant data handling, and customer support. No hidden fees, no add-on charges."
+        }
+      ]
+    }
+  ]
+}
