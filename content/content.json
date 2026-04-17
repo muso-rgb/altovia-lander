@@ -1,1 +1,124 @@
-{"sections":[{"type":"hero","badge":"AI Automation for Business","heading":"AI That Works For You,\nNot Against You.","subheading":"Deploy safe, secure AI agents in minutes. No engineering team needed. Works the way your business actually works — whether you're an accounting firm, law practice, or any other professional service.","buttons":[{"label":"Start your free trial","href":"#cta","variant":"default","size":"lg"},{"label":"Learn More","href":"#benefits","variant":"outline","size":"lg"}]},{"type":"benefits","heading":"Why Choose OpenClaw Agents","subheading":"Built for businesses that demand reliability.","items":[{"icon":"Shield","title":"Instant & Secure Deployment","description":"Launch AI agents in sandboxed containers in seconds. Enterprise-grade security without the complexity. Your data stays safe. Your workflows stay protected."},{"icon":"Zap","title":"Real Business Results","description":"Automate the work that eats your time. Save hours every week. Cut costs immediately. Your team focuses on what matters — building client relationships, not doing busywork."},{"icon":"Brain","title":"No AI Expertise Needed","description":"Simple setup for traditional businesses. You don't need to understand AI. Just describe what you want automated. We handle the rest."}]},{"type":"testimonials","heading":"Trusted by Professional Firms","subheading":"Real results from accountants, lawyers, and consultants.","items":[{"quote":"We automated document review. What used to take our team 3 days now happens overnight. Freed up two people for billable work.","author":"Sarah Chen","role":"Managing Partner","company":"Chen & Associates, CPAs"},{"quote":"Client intake is now automated. We get cleaner data, faster responses, and our team isn't buried in paperwork anymore.","author":"Michael Torres","role":"Practice Manager","company":"Torres Legal Group"},{"quote":"The security and reliability matter more than anything else. We know our client data is protected. That's non-negotiable in our business.","author":"Jennifer Wu","role":"Founder","company":"Wu & Partners Consulting"}]},{"type":"cta","heading":"Ready to Automate Your Firm?","description":"$99/month. No credit card required to get started. Cancel anytime. Deploy your first agent in minutes.","button":{"label":"Start your free trial","href":"#","variant":"secondary","size":"lg"}},{"type":"faq","heading":"Frequently Asked Questions","subheading":"Everything you need to know.","items":[{"question":"How secure is this? Can I trust it with client data?","answer":"Yes. OpenClaw agents run in isolated sandboxed containers with enterprise-grade security. Your data never leaves your environment. We handle security so you don't have to worry."},{"question":"What can I automate?","answer":"Document review, client intake, scheduling, data entry, email triage, report generation — anything repetitive that your team does today. If you can describe the task, we can automate it."},{"question":"How quickly can I set this up?","answer":"Minutes. No coding required. We handle deployment, security, and reliability. You just describe what you want done and we make it happen."},{"question":"What if something goes wrong?","answer":"OpenClaw agents are built for reliability. They run in protected containers and only do exactly what you tell them to do. No surprises, no hallucinations, no cutting corners."},{"question":"Do I need to hire engineers?","answer":"No. This is designed for non-technical teams. Lawyers, accountants, consultants — if you run a professional service, you can use OpenClaw without engineering expertise."}]}]}
+{
+  "sections": [
+    {
+      "type": "hero",
+      "badge": "The Smarter Travel App",
+      "heading": "Travel Smarter.\nSave More. Stress Less.",
+      "subheading": "Altovia combines AI-powered flight search, real-time price tracking, and points optimization — all in one app. Stop juggling five different tools to plan your next trip.",
+      "buttons": [
+        {
+          "label": "Download Free",
+          "href": "#cta",
+          "variant": "default",
+          "size": "lg"
+        },
+        {
+          "label": "See How It Works",
+          "href": "#benefits",
+          "variant": "outline",
+          "size": "lg"
+        }
+      ]
+    },
+    {
+      "type": "benefits",
+      "heading": "Why Travelers Switch to Altovia",
+      "subheading": "Everything other apps do separately — done better, in one place.",
+      "items": [
+        {
+          "icon": "Mic",
+          "title": "Voice-First Flight Search",
+          "description": "Just say \"Find me a cheap business class flight to Paris next month\" and Altovia does the work. No more filling out endless forms — search the way you actually think."
+        },
+        {
+          "icon": "TrendingDown",
+          "title": "Real-Time Price Tracking",
+          "description": "Set a price alert and forget about it. Altovia monitors hundreds of airlines 24/7 and sends you an instant notification the moment fares drop. Never overpay again."
+        },
+        {
+          "icon": "Award",
+          "title": "Points & Miles Maximizer",
+          "description": "Connect your loyalty programs and credit cards. Altovia automatically finds the best way to redeem your points across all your accounts — cash flights and award flights, side by side."
+        },
+        {
+          "icon": "Map",
+          "title": "Destination Discovery",
+          "description": "Not sure where to go? Browse personalized destination recommendations based on your preferences, budget, and travel style. Discover places you'd never find scrolling through search results."
+        },
+        {
+          "icon": "Globe",
+          "title": "Hotels & Activities, Too",
+          "description": "Altovia's AI assistant doesn't stop at flights. Ask about hotels, activities, and local experiences — and get curated options instantly, without switching apps."
+        },
+        {
+          "icon": "Bell",
+          "title": "Smart Notifications",
+          "description": "Get alerted for price drops, seat availability changes, and gate updates — all customized to your trips. Stay informed without being overwhelmed."
+        }
+      ]
+    },
+    {
+      "type": "testimonials",
+      "heading": "Real Travelers. Real Savings.",
+      "subheading": "Here's what people say after switching from other travel apps.",
+      "items": [
+        {
+          "quote": "I used to use three different apps to book a single trip. With Altovia, I just talk to the AI and it finds flights, tracks the price, and even suggests hotels. I saved $340 on my last trip to Tokyo.",
+          "author": "Jessica M.",
+          "role": "Frequent Flyer",
+          "company": "Travels 15+ times a year"
+        },
+        {
+          "quote": "The points optimizer is a game-changer. I had no idea I had enough miles for a business class seat. Altovia spotted it instantly and showed me exactly how to book it.",
+          "author": "Daniel K.",
+          "role": "Travel Enthusiast",
+          "company": "Chase & United Miles user"
+        },
+        {
+          "quote": "I set a price alert for a flight to Barcelona and forgot about it. Three weeks later I got a notification — fares dropped $180. Booked it in 30 seconds. No other app does this so smoothly.",
+          "author": "Priya S.",
+          "role": "Remote Worker",
+          "company": "Travels monthly for work"
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "heading": "Your Next Trip Deserves Better.",
+      "description": "Download Altovia free. Start your 7-day trial with full access to AI search, price tracking, and points optimization. No credit card required.",
+      "button": {
+        "label": "Download Free — Start Your Trial",
+        "href": "#",
+        "variant": "secondary",
+        "size": "lg"
+      }
+    },
+    {
+      "type": "faq",
+      "heading": "Frequently Asked Questions",
+      "subheading": "Everything you need to know about Altovia.",
+      "items": [
+        {
+          "question": "How is Altovia different from Google Flights or Kayak?",
+          "answer": "Google Flights and Kayak are search engines — you fill out forms and they show results. Altovia is a travel AI: you describe what you want in plain language, it searches, tracks, and optimizes for you. It also handles hotels, activities, and points redemption all in one app."
+        },
+        {
+          "question": "Can I really use my points and miles through Altovia?",
+          "answer": "Yes. Altovia lets you connect your frequent flyer accounts and credit cards. It shows cash and award flight options side by side, calculates the best value, and tells you exactly which points to use and how much you'll save."
+        },
+        {
+          "question": "How does voice search work?",
+          "answer": "Tap the mic button and speak naturally — \"I want to fly business class from New York to London in December, under $2,000.\" Altovia transcribes it, searches across hundreds of airlines, and shows you the best options instantly. No forms, no filters."
+        },
+        {
+          "question": "How accurate are the price alerts?",
+          "answer": "Very. Altovia monitors live flight data around the clock. When we detect a meaningful price drop on a route you're tracking, you get a push notification immediately. You can set your target price and Altovia won't bother you until it's hit."
+        },
+        {
+          "question": "Is Altovia free to use?",
+          "answer": "Altovia is free to download with a 7-day free trial of all Pro features. After that, you can continue with a monthly or yearly plan. No credit card is needed to start — just download and go."
+        }
+      ]
+    }
+  ]
+}
