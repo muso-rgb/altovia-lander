@@ -2,18 +2,19 @@
   "sections": [
     {
       "type": "hero",
-      "badge": "✈️ Your New Travel Bestie",
-      "heading": "Stop Wasting Hours.\nBook Smarter with Altovia.",
-      "subheading": "One app. Cheap flights, business class deals, AI trip planning, and points optimization — all from your phone. No more 12-tab rabbit holes.",
+      "badge": "🤖 AI-Powered Travel Planning",
+      "heading": "Your AI Travel Agent.
+Always in Your Pocket.",
+      "subheading": "Tell Altovia where you want to go — it handles flights, plans your itinerary, finds local experiences, and optimizes your points. Like a travel agent who never sleeps.",
       "buttons": [
         {
-          "label": "Download Free",
+          "label": "Meet Your AI Travel Agent",
           "href": "#cta",
           "variant": "default",
           "size": "lg"
         },
         {
-          "label": "See How It Works",
+          "label": "See What It Can Do",
           "href": "#benefits",
           "variant": "outline",
           "size": "lg"
@@ -22,72 +23,72 @@
     },
     {
       "type": "benefits",
-      "heading": "Why Altovia Hits Different",
-      "subheading": "Other apps give you results. Altovia gives you answers.",
+      "heading": "Travel Smarter with AI",
+      "subheading": "From first idea to full itinerary — Altovia does the thinking for you.",
       "items": [
         {
-          "icon": "Plane",
-          "title": "Insane Flight Deals — Fast",
-          "description": "Find cheap flights anywhere in the world in seconds. Altovia searches across major airlines so you don't have to. First class and business class deals included — not just economy."
-        },
-        {
           "icon": "Map",
-          "title": "AI That Plans Like a Local",
-          "description": "Tell Altovia where you're going and it researches local experiences, hidden gems, and things to do — like you've got a well-traveled bestie on speed dial."
+          "title": "AI That Knows Every Destination",
+          "description": "Tell Altovia where you're going and it builds a full trip plan — local gems, neighborhoods, things to do, and what to skip. Like asking a friend who's been everywhere."
         },
         {
-          "icon": "Clock",
-          "title": "Say Bye to Tab Hell",
-          "description": "Remember spending days across multiple tabs, multiple windows, multiple apps just to book one trip? Altovia does all of that in a couple of taps. Seriously."
+          "icon": "Plane",
+          "title": "Smart Flight Search",
+          "description": "Altovia's AI searches across airlines to find the right flight for your trip — not just the cheapest, but the best fit for your schedule, layovers, and preferences."
         },
         {
           "icon": "Award",
-          "title": "Points? Actually Used",
-          "description": "Altovia spots the award seats and business class redemptions you'd miss on your own. Connect your loyalty programs and let the AI do the math."
+          "title": "Points Optimization on Autopilot",
+          "description": "Connect your loyalty programs and Altovia's AI finds the best way to use them — surfacing award seats and redemptions that take hours to find manually."
         },
         {
-          "icon": "Globe",
-          "title": "Your Personal Travel Agent",
-          "description": "Not sure what to do next? Altovia's AI plans your whole trip — flights, activities, local tips — like a travel agent that actually knows your taste."
+          "icon": "MessageSquare",
+          "title": "Just Describe Your Trip",
+          "description": "No forms. No filters. Just tell Altovia what you want — \"a long weekend in Europe under $800\" — and it figures out the rest. Travel planning like a conversation."
         },
         {
-          "icon": "TrendingDown",
-          "title": "Deals From the US & Canada",
-          "description": "Amazing fares on most major airlines departing from the United States and Canada. Premium cabin upgrades, budget escapes, weekend getaways — all in one place."
+          "icon": "Layers",
+          "title": "One App for Everything",
+          "description": "Flights, activities, local tips, points tracking — all in one place. Altovia replaces the 5 separate apps and 12 browser tabs you currently need just to plan one trip."
+        },
+        {
+          "icon": "Sparkles",
+          "title": "Personalized, Not Generic",
+          "description": "The more you use Altovia, the better it understands your travel style — and the more tailored your recommendations get. AI that actually learns what you like."
         }
       ]
     },
     {
       "type": "testimonials",
-      "heading": "Real Trips. Real Savings.",
-      "subheading": "People who switched from Kayak, Google Flights, and all the rest.",
+      "heading": "What Travelers Are Saying",
+      "subheading": "From weekend warriors to digital nomads — they all switched to Altovia.",
       "items": [
         {
-          "quote": "I used to have like 15 tabs open every time I booked a flight. Altovia found me a business class seat to Tokyo for less than what I was paying for economy on other apps. I'm not going back.",
-          "author": "Jessica M.",
-          "role": "Frequent Flyer",
-          "company": "Travels 15+ times a year"
-        },
-        {
-          "quote": "The AI trip planner is unreal. I told it I wanted to go to Lisbon for a week on a budget and it gave me a full itinerary with local spots I never would've found. Like having a friend who's been everywhere.",
+          "quote": "I said 'I want to go somewhere warm for 10 days in March under $1,200 from NYC' and Altovia came back with a full trip to Colombia — flights, neighborhood guide, the works. I was booked in 20 minutes.",
           "author": "Marcus T.",
           "role": "Digital Nomad",
           "company": "Works remotely from new cities"
         },
         {
-          "quote": "I actually like collecting points — but Altovia shows me redemptions I would've completely missed. Got a first class flight to Paris using miles I forgot I had. The app basically paid for itself.",
-          "author": "Priya S.",
-          "role": "Points Collector",
-          "company": "Chase Sapphire & United MileagePlus"
+          "quote": "The AI trip planner is genuinely unreal. I asked for hidden spots in Lisbon and got a list of places that weren't in any tourist guide. My friends thought I'd been there before. I hadn't.",
+          "author": "Sophie K.",
+          "role": "First-Time Solo Traveler",
+          "company": "Used Altovia for 3 trips last year"
+        },
+        {
+          "quote": "I used to have 15 tabs open and spend a whole weekend planning one trip. Now I describe what I want, Altovia handles it, and I spend that time actually looking forward to the trip.",
+          "author": "Jessica M.",
+          "role": "Frequent Flyer",
+          "company": "Travels 15+ times a year"
         }
       ]
     },
     {
       "type": "cta",
-      "heading": "Your Best Trip Yet Starts Here.",
-      "description": "Download Altovia free. Start your trial with full access to AI trip planning, cheap flight search, and points optimization. No credit card. No stress.",
+      "heading": "Let AI Plan Your Next Adventure.",
+      "description": "Download Altovia free. 7-day full trial — AI trip planning, smart flight search, and points optimization. No credit card needed.",
       "button": {
-        "label": "Download Free — Start Your Trial",
+        "label": "Download Free — Meet Your Travel AI",
         "href": "https://www.altovia.app/",
         "variant": "secondary",
         "size": "lg"
@@ -95,28 +96,28 @@
     },
     {
       "type": "faq",
-      "heading": "Got Questions?",
-      "subheading": "Real talk about how Altovia compares.",
+      "heading": "How Does It Work?",
+      "subheading": "Quick answers about Altovia's AI travel features.",
       "items": [
         {
-          "question": "How is Altovia different from Google Flights or Kayak?",
-          "answer": "Google Flights and Kayak are search tools — you fill out forms and scroll results. Altovia is your travel AI: you describe what you want, and it searches, plans, and optimizes for you. It handles flights, hotels, activities, points, and local tips in one app — no switching required."
+          "question": "What can I actually ask Altovia's AI?",
+          "answer": "Pretty much anything travel-related: 'Find me a cheap flight to Tokyo in October', 'Plan a 5-day itinerary for Lisbon on a budget', 'What are the best local restaurants in Mexico City?' — it handles search, planning, and recommendations all in one place."
         },
         {
-          "question": "I can find cheap flights myself — why do I need Altovia?",
-          "answer": "Totally fair. But most people spend hours across multiple sites, miss better deals, and never actually use their points. Altovia does all of that in minutes — and spots deals (especially first class and business class) that are way harder to find manually."
+          "question": "How is this different from just using ChatGPT for travel?",
+          "answer": "Altovia is connected to real-time flight data, your loyalty accounts, and pricing systems. ChatGPT can suggest itineraries — Altovia can actually book them and find live deals. It's an AI that takes action, not just gives advice."
         },
         {
-          "question": "What if I actually like looking for points deals?",
-          "answer": "Altovia is built for you then. Connect your loyalty programs and it surfaces the best award redemptions across all your accounts — the ones that actually make sense. You still call the shots; Altovia just makes sure you see every option."
+          "question": "Does the AI really plan a full itinerary?",
+          "answer": "Yes. Give it your destination, trip length, and budget and it comes back with a full day-by-day plan including local neighborhoods, activities, food spots, and hidden gems — the kind of intel that usually takes days of research."
         },
         {
-          "question": "Is this just another app I won't use?",
-          "answer": "We get it — app fatigue is real. But Altovia replaces 4-5 things you already do separately (flight search, price alerts, trip planning, points tracking). It's less apps, not more."
+          "question": "How does it handle my loyalty points?",
+          "answer": "Connect your accounts and Altovia's AI constantly monitors for the best redemption opportunities — award flights, upgrades, and partner deals. It finds the options that take 3 hours to find manually and surfaces them in seconds."
         },
         {
           "question": "Is Altovia free?",
-          "answer": "Yes — free to download with a 7-day trial of all Pro features. No credit card needed to start. After that, pick a plan that works for how often you travel."
+          "answer": "Free to download with a 7-day full trial — no credit card required. After that, plans start affordably. Most users find it saves them far more than the cost on their first trip."
         }
       ]
     }
